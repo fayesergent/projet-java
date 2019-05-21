@@ -7,7 +7,7 @@ public class Voiture extends Vehicule
 {
 	private static final long serialVersionUID = 8047176247375201388L;
 
-	public Voiture(String imm, String mod, String mar, String prop)
+	public Voiture(String imme, String mode, String mare, String propeeee)
 	{
 		super(imm, mod, mar, prop);
 	}
